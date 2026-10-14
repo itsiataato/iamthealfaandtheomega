@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"If you're going through hell, keep going. — Jared Leonard"</i></p>
+<p align="center"><i>"You won't find the same person twice, not even in the same person. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
