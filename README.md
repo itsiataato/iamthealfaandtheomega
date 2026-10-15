@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"You get what you fight for, not what you wish for. — Jared Leonard"</i></p>
+<p align="center"><i>"The insult only works, if you accept it. — Diogenes"</i></p>
 <!-- QUOTE_END -->
 
 </div>
