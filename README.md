@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Don't trust anyone, remember the devil was once an Angel. — Unknown"</i></p>
+<p align="center"><i>"Too much attention makes a monkey think he's a lion. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
