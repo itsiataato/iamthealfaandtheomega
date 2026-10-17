@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Who you are, is more important than who you've been. — Jared Leonard"</i></p>
+<p align="center"><i>"To fall asleep, you must first pretend to be asleep. And that's how everything else works. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
