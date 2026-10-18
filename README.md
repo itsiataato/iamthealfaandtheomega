@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Don't trust anyone, remember the devil was once an Angel. — Unknown"</i></p>
+<p align="center"><i>"To fall asleep, you must first pretend to be asleep. And that's how everything else works. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
