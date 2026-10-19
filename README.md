@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Don't let your loneliness make you reconnect with toxic people. You shouldn't drink poison just because you're thirsty. — Jared Leonard"</i></p>
+<p align="center"><i>"You get what you fight for, not what you wish for. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
