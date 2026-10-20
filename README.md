@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The first to forget, is the happiest. — Unknown"</i></p>
+<p align="center"><i>"It's not about the house you buy, it's about the home you make. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
