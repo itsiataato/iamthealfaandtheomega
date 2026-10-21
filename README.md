@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"It's not about the house you buy, it's about the home you make. — Jared Leonard"</i></p>
+<p align="center"><i>"Too much attention makes a monkey think he's a lion. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
