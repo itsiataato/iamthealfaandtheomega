@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The first to forget, is the happiest. — Unknown"</i></p>
+<p align="center"><i>"Don't be a loser in your own fantasy. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
