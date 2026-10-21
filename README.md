@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Don't be a loser in your own fantasy. — Unknown"</i></p>
+<p align="center"><i>"Don't let your loneliness make you reconnect with toxic people. You shouldn't drink poison just because you're thirsty. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
