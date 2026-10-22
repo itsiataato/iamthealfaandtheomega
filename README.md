@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"If you're going through hell, keep going. — Jared Leonard"</i></p>
+<p align="center"><i>"Forgive others, not because they deserve forgiveness, but because you deserve peace. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
