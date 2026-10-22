@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Forgive others, not because they deserve forgiveness, but because you deserve peace. — Unknown"</i></p>
+<p align="center"><i>"Mistakes are proof that you're trying. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
