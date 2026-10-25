@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"A cat that dreams of becoming a lion, must lose its appetite for rats. — Unknown"</i></p>
+<p align="center"><i>"You get what you fight for, not what you wish for. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
