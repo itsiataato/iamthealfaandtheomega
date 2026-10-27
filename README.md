@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The first to apologize, Is the bravest. — Unknown"</i></p>
+<p align="center"><i>"A cat that dreams of becoming a lion, must lose its appetite for rats. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
