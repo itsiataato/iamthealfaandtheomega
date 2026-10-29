@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Who you are, is more important than who you've been. — Jared Leonard"</i></p>
+<p align="center"><i>"Mistakes are proof that you're trying. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
