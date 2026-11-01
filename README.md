@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Mistakes are proof that you're trying. — Jared Leonard"</i></p>
+<p align="center"><i>"The first to apologize, Is the bravest. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
