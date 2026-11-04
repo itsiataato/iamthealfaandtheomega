@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The compass was invented before the clock, because direction is more important than time. — Unknown"</i></p>
+<p align="center"><i>"You can't expect to get diamonds, if you don't even mine. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
