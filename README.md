@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"don't create future if you didn't finish the past. — MG"</i></p>
+<p align="center"><i>"You get what you fight for, not what you wish for. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
