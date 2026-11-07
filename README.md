@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"The first to forget, is the happiest. — Unknown"</i></p>
+<p align="center"><i>"Who you are, is more important than who you've been. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
