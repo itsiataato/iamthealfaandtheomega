@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"If you're going through hell, keep going. — Jared Leonard"</i></p>
+<p align="center"><i>"don't create future if you didn't finish the past. — MG"</i></p>
 <!-- QUOTE_END -->
 
 </div>
