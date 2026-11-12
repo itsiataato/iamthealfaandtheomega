@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"don't create future if you didn't finish the past. — MG"</i></p>
+<p align="center"><i>"Be a good person, but don't waste all your energy trying to prove it. — Jared Leonard"</i></p>
 <!-- QUOTE_END -->
 
 </div>
