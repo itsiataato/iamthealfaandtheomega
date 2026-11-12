@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"A cat that dreams of becoming a lion, must lose its appetite for rats. — Unknown"</i></p>
+<p align="center"><i>"don't create future if you didn't finish the past. — MG"</i></p>
 <!-- QUOTE_END -->
 
 </div>
