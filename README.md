@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"You can't expect to get diamonds, if you don't even mine. — Unknown"</i></p>
+<p align="center"><i>"Don't trust anyone, remember the devil was once an Angel. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
