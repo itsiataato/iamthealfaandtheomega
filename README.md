@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"A cat that dreams of becoming a lion, must lose its appetite for rats. — Unknown"</i></p>
+<p align="center"><i>"You won't find the same person twice, not even in the same person. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
