@@ -24,7 +24,7 @@
 <div align="center">
 
 <!-- QUOTE_START -->
-<p align="center"><i>"Your brain is powerful enough to create fear. Imagine what it can do when it creates hope. — Jared Leonard"</i></p>
+<p align="center"><i>"The first to forget, is the happiest. — Unknown"</i></p>
 <!-- QUOTE_END -->
 
 </div>
